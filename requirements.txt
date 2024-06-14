@@ -8,3 +8,12 @@ json5
 Flask-CORS
 langchain_openai
 python-dotenv
+langchain
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain_community
+langchain_anthropic
+langchain_mistralai
+langchain_huggingface
+langchain_together
