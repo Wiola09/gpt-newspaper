@@ -33,7 +33,7 @@ function produceNewspaper() {
         layout: selectedLayout
     };
 
-    fetch('http://localhost:8000/generate_newspaper', {
+    fetch('https://gpt-newspaper-gpt-newspaper.uscnc5.easypanel.host/generate_newspaper', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
